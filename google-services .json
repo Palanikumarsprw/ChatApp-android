@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124100273343",
+    "project_id": "hi-hello-1288"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124100273343:android:c61cc839daef7074",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124100273343-6d0ucgmj1uddcr8jqv3tf2jt1ravfm4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp",
+            "certificate_hash": "4E5053056AE947B0FC7940FA2F20BB730B4B850F"
+          }
+        },
+        {
+          "client_id": "124100273343-q3bo6bi4ohunn9bl6kton9aletm57kdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOTlJHIiGSyi0ue58kuODb5YRe-Q2SuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
